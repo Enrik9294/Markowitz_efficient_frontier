@@ -1,4 +1,5 @@
 """
+Utility function recalled in the 'creator.py' script that checks if the sum of the optimal weights is up to 1
 
 @author: Enrico Pasquariello
 @mail: enrico.pasquariello94@gmail.com 
