@@ -1,4 +1,6 @@
 """
+This codes creates the Markowitz-efficient frontier using the combination of return-volatility
+for each optimal weights choice maximizing (or minimizing) the Sharpe Ratio (or negative Sharpe Ratio)
 
 @author: Enrico Pasquariello
 @mail: enrico.pasquariello94@gmail.com   
