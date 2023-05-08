@@ -1,4 +1,5 @@
 """
+This code loads the data either from a Bloomberg source or directly from the Yahoo Finance webpage
 
 @author: Enrico Pasquariello
 @mail: enrico.pasquariello94@gmail.com   
