@@ -1,4 +1,5 @@
 """
+This code saves the optimal weights combination and the correlation matrix in an .xlsx file
 
 @author: Enrico Pasquariello
 @mail: enrico.pasquariello94@gmail.com   
